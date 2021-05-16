@@ -6,12 +6,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemasf&show_icons=true&locale=en&layout=compact" alt="josemasf" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemasf&show_icons=true&locale=en" alt="josemasf" /></p>
+<hr />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://twitter.com/josemasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="josemasf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/josemasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="josemasf" height="30" width="40" /></a>
 <a href="https://medium.com/@josemasf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@josemasf" height="30" width="40" /></a>
